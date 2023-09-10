@@ -12,16 +12,10 @@
 
 #### Scope
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bD-62OMzni0?si=yN9Q1FXsM6n2N0HB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <iframe width="560" height="315" src="https://www.youtube.com/embed/iJKkZA215tQ?si=sLVabwekNxZR_YfR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/TkFN6e9ZDMw?si=TrtFAgWjPhH-RrsK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+[DCode](https://www.youtube.com/embed/bD-62OMzni0?si=yN9Q1FXsM6n2N0HB)
+[Mosh](https://www.youtube.com/embed/iJKkZA215tQ?si=sLVabwekNxZR_YfR)
 
 #### Closures
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aHrvi2zTlaU?si=rN3HBbfPprMu5dZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1S8SBDhA7HA?si=GtzAj5X5qZLTEYup" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <iframe width="560" height="315" src="https://www.youtube.com/embed/71AtaJpJHw0?si=v_ZrJSlYZf2vm8Ej" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uOgkeT-_Y-8?si=AioK5cdxWpsphb7Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <iframe width="560" height="315" src="https://www.youtube.com/embed/hctBPFsbSu0?si=kjHkm0MLyCh2DTFC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vKJpN5FAeF4?si=niWLmdzSgEF1bj8B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[ColorCode](https://www.youtube.com/embed/aHrvi2zTlaU?si=rN3HBbfPprMu5dZ1) 
+[FireShip](https://www.youtube.com/embed/vKJpN5FAeF4?si=niWLmdzSgEF1bj8B)
